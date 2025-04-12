@@ -1,0 +1,17 @@
+azure-cosmos==4.2.0
+azure-ai-textanalytics==5.3.0
+openai>=1.2.0
+flask==2.1.1
+python-dotenv==0.19.2
+aiohttp
+#botbuilder-core==4.14.4
+requests
+azure-cognitiveservices-speech
+msrest
+azure-ai-generative
+botbuilder-core
+botbuilder-schema
+botframework-connector
+azure.ai.inference
+
+
