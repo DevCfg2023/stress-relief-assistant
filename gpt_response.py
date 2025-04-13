@@ -18,7 +18,7 @@ token_provider = get_bearer_token_provider(
 
 client = ChatCompletionsClient(
     endpoint='https://s2249-m9dydovh-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o',
-    credential=AzureKeyCredential("2SKMnXkuBUTxY5QtrFi25DmC1MjNG8mFL3DD5hgY1BtIWmx4AXt2JQQJ99BDACHYHv6XJ3w3AAAAACOGXzDr")
+    credential=AzureKeyCredential("")
 )
 
 
